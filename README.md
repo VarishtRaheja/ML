@@ -7,7 +7,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Highlights](#project-highlights)
-   - [1. A/B Analytics on various projects](#1-A/B-analytics-on-various-projects)
+   - [1. A/B Analytics on various projects](#1-ab-analytics-on-various-projects)
    - [2. Simple linear regression model creation](#2-simple-linear-regression)
    #### YET TO COME:
    - [3. Sentiment Analysis Using NLP](#3-sentiment-analysis-using-nlp)
@@ -27,20 +27,21 @@ This repository features various projects showcasing the application of data sci
 
 ## Project Highlights
 
-### 1. A/B Analytics on various projects
+### <a id="1-ab-analytics-on-various-projects">1. A/B Analytics on various projects</a>
 **Objective:** Forecast sales and optimize inventory management.  
 **Key Highlights:**  
 - Preprocessed and cleaned a large dataset with missing values and outliers.
 - Visualized trends and patterns using Matplotlib and Seaborn.
 - UNderstanding and implementing hypothesis and statistical methods.
 
-### 2. Simple Linear Regression model
+### <a id="2-simple-linear-regression">2. Simple Linear Regression model</a>
 **Objectives:** Understanding the equation and how to set up a quick model to predict various data parameters for tennis matches.
 **Key Highlights:**
 - Data pre-processing and cleaning, understanding basic correlation with a heatmap
 - Created a basic model to determine the coefficient of determination ($$ \R^2 $$ )
 - Adjusted the value based on many independent variables to create a multiple linear regresspon model
-$$\begin{\equation} 
+$$
+\begin{\equation} 
     \y = \beta_\0 + \beta_\1x_1 + \beta_\2x_2 + \dots + \beta_kx_k + \epsilon
 \end{equation}
 
@@ -94,9 +95,9 @@ $$
 
 ## Contact
 For any queries or collaboration opportunities, feel free to reach out to me:
-- **Email:** [EMAIL](varishtraheja@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/varisht-raheja)
-- **Portfolio:** [Your Portfolio Website](http://varishtraheja.wixsite.com/varishtraheja)
+- **Email:** [varishtraheja@gmail.com](varishtraheja@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/varisht-raheja)
+- **Portfolio:** [Portfolio Website](http://varishtraheja.wixsite.com/varishtraheja)
 
 ---
 
