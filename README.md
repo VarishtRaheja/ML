@@ -1,4 +1,4 @@
-# Data Analysis and Machine Learning Projects
+# Data Science and Machine Learning Projects
 
 Welcome to my GitHub repository! Here, you'll find a collection of projects that demonstrate my expertise and passion for data analysis and machine learning. These projects tackle a variety of real-world challenges and showcase the use of diverse tools, frameworks, and algorithms.
 
@@ -9,10 +9,11 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 2. [Project Highlights](#project-highlights)
    - [1. A/B Analytics on various projects](#1-ab-analytics-on-various-projects)
    - [2. Simple linear regression model creation](#2-simple-linear-regression)
+   - [3. Multiple Linear Regression](#3-multiple-linear-regression)
    #### YET TO COME:
-   - [3. Sentiment Analysis Using NLP](#3-sentiment-analysis-using-nlp)
-   - [4. Image Classification with CNNs](#4-image-classification-with-cnns)
-   - [5. Anomaly Detection in Time Series Data](#5-anomaly-detection-in-time-series-data)
+   - [4. Sentiment Analysis Using NLP](#3-sentiment-analysis-using-nlp)
+   - [5. Image Classification with CNNs](#4-image-classification-with-cnns)
+   - [6. Anomaly Detection in Time Series Data](#5-anomaly-detection-in-time-series-data)
 3. [Technologies Used](#technologies-used)
 4. [How to Run](#how-to-run)
 5. [Contact](#contact)
@@ -54,27 +55,54 @@ Where:
 
 Feel free to adapt it to your specific needs!
 $$
+<br>
 
-### 3. Sentiment Analysis Using NLP
+### <a id="3-multiple-linear-regression">3. Multiple Linear Regression</a>
+**Objective:** Using multiple linear regression to highlight predictors for forest fires
+**Key Highlights:**
+- To be added
+
+### 4. Sentiment Analysis Using NLP
 **Objective:** Analyze customer sentiment from reviews.  
 **Key Highlights:**  
 - Conducted text preprocessing including tokenization, stopword removal, and stemming.
 - Employed bag-of-words and TF-IDF vectorization methods.
 - Trained classifiers like Logistic Regression and Support Vector Machines for sentiment prediction.
 
-### 4. Image Classification with CNNs
+### 5. Image Classification with CNNs
 **Objective:** Classify images into predefined categories.  
 **Key Highlights:**  
 - Used transfer learning with pretrained models like VGG16 and ResNet.
 - Augmented datasets with techniques like rotation, flipping, and zooming.
 - Achieved high accuracy by tuning hyperparameters and optimizing the model.
 
-### 5. Anomaly Detection in Time Series Data
+### 6. Anomaly Detection in Time Series Data
 **Objective:** Detect anomalies in sensor data to prevent equipment failure.  
 **Key Highlights:**  
 - Explored time series data using moving averages and exponential smoothing.
 - Built unsupervised models using techniques like Isolation Forest and Autoencoders.
 - Deployed a real-time monitoring dashboard with visualization tools.
+
+<br>
+
+## Data science Visualisation projects:
+### Table of Content:
+1. [Airline Trends - Dashboard](#1-airline-trend)
+
+#### <a id="1-airline-trend">1. Dashboard application - Airline trends</a>
+1. Task 1
+    - Import required libraries
+    - Read the dataset
+2. Task 2
+    - Create an application layout
+    - Add title to the dashboard application using HTML H1 component
+3. Task 3
+    - Add input text box using core input and output components
+    - Add the callback decorator and generate the line chart within the callback function.
+
+**Key Highlights**
+   - To be added
+
 
 ---
 
