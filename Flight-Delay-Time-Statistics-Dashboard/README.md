@@ -19,4 +19,3 @@ NOTE: Year range should be between 2010 and 2020
 4. Carrier and Weather delay in the first segment
 5. National air system and Security delay in the second segment
 6. Late aircraft delay in the third segment
-
