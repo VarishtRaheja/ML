@@ -58,7 +58,9 @@ $$
 <br>
 
 ### <a id="3-multiple-linear-regression">3. Multiple Linear Regression</a>
-**Objective:** Using multiple linear regression to highlight predictors for forest fires
+**Objective:** Using multiple linear regression to highlight predictors for forest fires.
+<br>
+
 **Key Highlights:**
 - To be added
 
@@ -85,11 +87,14 @@ $$
 
 <br>
 
-## Data science Visualisation projects:
-### Table of Content:
+# Data science Visualisation projects:
+## Table of Content:
 1. [Airline Trends - Dashboard](#1-airline-trend)
 
 #### <a id="1-airline-trend">1. Dashboard application - Airline trends</a>
+**Key Highlights**
+<br>
+
 1. Task 1
     - Import required libraries
     - Read the dataset
@@ -99,18 +104,43 @@ $$
 3. Task 3
     - Add input text box using core input and output components
     - Add the callback decorator and generate the line chart within the callback function.
+<br>
 
+2. [Analysing Wildfire - Dashboard](#2-wildfire)
+
+#### <a id="2-wildfire">1. Wildfire activities analyis in Australia</a>
 **Key Highlights**
-   - To be added
+<p>
+ - The objective of this part is to analyze and visualize the wildfire activities in Australia using the provided dataset. You will explore patterns and trends, and create visualizations to gain insights into the behavior of wildfires in different regions of Australia.
 
+ - Dashboard to display charts based on selected Region and Year
+</p>
+
+<br>
+
+
+3. [Automobile Sale Trends](#3-automobile-sale-trends)
+
+#### <a id="3-automobile-sale-trends">1. Wildfire activities analyis in Australia</a>
+**Key Highlights**
+<p>
+
+The objective of this part of the assignment is to analyze the historical trends in automobile sales during recession periods. The goal is to provide insights into how the sales of XYZAutomotives, a company specializing in automotive sales, were affected during times of recession.
+
+Yearly Automobile Sales Statistics
+Recession Period Statistics
+</p>
+
+
+<br>
 
 ---
 
 ## Technologies Used
-- **Programming Languages:** Python, VEX(C based)
-- **Libraries/Frameworks:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+- **Programming Languages:** Python
+- **Libraries/Frameworks:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Dash
 - **Tools:** Jupyter Notebook, Google Colab, VS-Code, PyCharm
-- **Other Technologies:** SQL-LITE, MySQL, Houdini, Nuke, Maya, Unreal 
+- **Other Technologies:** SQL-LITE, MySQL 
 
 ---
 
